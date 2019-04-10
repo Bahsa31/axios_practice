@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Components.css';
 import axios from 'axios';
 
 export default class PersonInput extends React.Component {
